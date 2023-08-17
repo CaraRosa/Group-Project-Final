@@ -1,0 +1,68 @@
+.navbar {
+    background-color: #754F41 !important;
+}
+.navbar .navbar-brand {
+    color: #F6F6FF !important;
+    font-size: 30px;
+    font-family: "Calibri Light", sans-serif;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: #F6F6FF;
+    font-size: 25px;
+    font-family: "Calibri Light", sans-serif;
+}
+
+.jumbotron {
+    background-color: #F5A587;
+}
+
+.display-4 {
+    color: #F6F5FF;
+    font-family: "Freestyle Script", cursive;
+}
+
+.my-4 {
+    width: 1365px;
+}
+
+.info {
+    font-family: "Calibri Light", sans-serif;
+}
+
+.card-title {
+    font-family: "Freestyle Script", cursive;
+}
+
+.card-text {
+    font-family: "Calibri Light", sans-serif;
+}
+
+.image1 {
+    height: 505px;
+}
+
+.image2 {
+    height: 505px;
+}
+
+.image3 {
+    height: 505px;
+}
+
+.image4 {
+    height: 505px;
+}
+
+.info {
+    color: #F6F5FF;
+    font-family: 'Calibri Light,' Times, serif;
+}
+
+.card-title {
+    background-color: #C7FFD1;
+}
+
+.card-text {
+    background-color: #C7FFD1;
+}

@@ -1,0 +1,59 @@
+.navbar {
+    background-color: #754F41 !important;
+}
+
+.navbar .navbar-brand {
+    color: #F6F6FF !important;
+    font-size: 30px;
+                   }
+.navbar .navbar-nav .nav-item .nav-link {
+    color: #F6F5FF;
+    font-size: 25px;
+}
+body, html {
+    height: 100%;
+    font-family: "Calibri light";
+          }
+           
+#body {
+    width: 450px;
+    margin-left: 525px;
+    margin-top: 10px;
+    position: absolute;
+    background-position: center;
+    object-position: center;
+    height: 610px;
+    background-color: #F5A587;
+    border-style: hidden;
+    padding-left: 50px;
+    padding-right: 50px;
+    float: left;
+    border-radius: 25px;
+}
+      
+#shape1 {
+    margin-top: 25px;
+    margin-left: 20px;
+    border-radius: 25px;
+    background-color: #E4FFA3;        
+    border: 2px solid #E4FFA3;
+    padding-left: 20px; 
+    width: 200px;
+    height: 610px;
+    }
+
+#shape2 {
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 25px;
+    background-color: #E4FFA3;        
+    border: 2px solid #E4FFA3;
+    padding-left: 20px; 
+    width: 200px;
+    height: 610px;
+    float: right;
+    }
+          
+#bottomNavbar {
+    margin-top: 200px;
+}

@@ -1,0 +1,49 @@
+.navbar {
+    background-color: #754F41 !important;
+}
+.navbar .navbar-brand {
+    color: #F6F6FF !important;
+    font-size: 30px;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+    color: #F6F6FF;
+    font-size: 25px;
+}
+
+body, html {
+    height: 100%;
+    font-family: "Calibri Light", sans-serif;
+  }
+
+.bg {
+    background-image: url("../img/Product4.jpeg");
+    height: 630px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.jumbotron-special {
+    background-color: #754F41;
+}
+
+.jumbotron-opacity {
+    background: rgba(255, 255, 255, 0.8);
+ }
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #f5a5ff;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color:#c7ffd1;
+    background-color: transparent;
+    text-decoration: underline;
+  }
